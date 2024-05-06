@@ -12,8 +12,8 @@ Importance of Sales Data Analysis: Unveiling sales patterns, tracking essential 
 
 Reports' Role: Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
-Finance Report:
-Project Goals:
+# Finance Report:
+## Project Goals:
 
 Profit and Loss (P&L) Reports: Created P&L reports by fiscal years and P&L reports by fiscal months.
 P&L Reports by Markets: Generated P&L reports categorized by markets.
@@ -23,14 +23,15 @@ Importance of Finance Data Analysis: Benchmarking against industry peers, histor
 
 Reports' Role: Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
-Technical & Soft Skills:
+# Technical & Soft Skills:
 Proficient in ETL methodology (Extract, Transform, Load).
 Skillful in creating date tables using Power Query.
 Capable of deriving fiscal months and quarters.
 Establishing data model relationships with Power Pivot.
 Adept at integrating supplementary data into existing data models.
 Skilled in using DAX to create calculated columns.
-Soft Skills:
+
+# Soft Skills:
 Comprehensive understanding of Sales & Finance Reports.
 Designing user-centric reports with empathy.
 Optimizing report generation through meticulous fine-tuning.
