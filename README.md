@@ -1,7 +1,7 @@
 # Sales-and-Finance-Analytics-of-AtliQ-Hardwares
 
-## Sales Report:
-# Project Goals:
+# Sales Report:
+## Project Goals:
 
 Customer Performance Report: Created a detailed report to assess customer performance.
 Market Performance Comparison: Conducted a thorough analysis comparing market performance against sales targets.
