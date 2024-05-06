@@ -3,7 +3,7 @@
 # Sales Report:
 ## Project Goals:
 
-Customer Performance Report: Created a detailed [Report] (file:///C:/Users/admin/Downloads/Customer%20Net%20Sales%20Performance%20Report.pdf) to assess customer performance.
+Customer Performance Report: Created a detailed [report](file:///C:/Users/admin/Downloads/Customer%20Net%20Sales%20Performance%20Report.pdf) to assess customer performance.
 Market Performance Comparison: Conducted a thorough analysis comparing market performance against sales targets.
 
 Sales Analytics Purpose: Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
