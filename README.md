@@ -3,7 +3,7 @@
 # Sales Report:
 ## Project Goals:
 
-Customer Performance Report: Created a detailed [report](file:///C:/Users/admin/Downloads/Customer%20Net%20Sales%20Performance%20Report.pdf) to assess customer performance.
+Customer Performance Report: Created a detailed [report](file:///C:/Users/admin/Downloads/Customer%20Net%20Sales%20Performance%20Report.pdf.) to assess customer performance.
 Market Performance Comparison: Conducted a thorough analysis comparing market performance against sales targets.
 
 Sales Analytics Purpose: Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
@@ -27,15 +27,15 @@ Reports' Role: Aligning financial planning with strategic objectives and instill
 - Proficient in ETL methodology (Extract, Transform, Load).
 - Skillful in creating date tables using Power Query.
 - Capable of deriving fiscal months and quarters.
-Establishing data model relationships with Power Pivot.
-Adept at integrating supplementary data into existing data models.
-Skilled in using DAX to create calculated columns.
+- Establishing data model relationships with Power Pivot.
+- Adept at integrating supplementary data into existing data models.
+- Skilled in using DAX to create calculated columns.
 
 # Soft Skills:
-Comprehensive understanding of Sales & Finance Reports.
-Designing user-centric reports with empathy.
-Optimizing report generation through meticulous fine-tuning.
-Developing a systematic approach to creating report-building plans.
+- Comprehensive understanding of Sales & Finance Reports.
+- Designing user-centric reports with empathy.
+- Optimizing report generation through meticulous fine-tuning.
+- Developing a systematic approach to creating report-building plans.
 
 Find the detailed project reports here.
 
