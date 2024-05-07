@@ -4,7 +4,7 @@
 ## Project Goals:
 
 1. Customer Performance Report: Created a detailed [report](https://github.com/Anugya10/Sales-and-Finance-Analytics-of-AtliQ-Hardwares/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf/) to assess customer performance.
-2. Market Performance Comparison: Conducted a thorough analysis comparing market performance against sales targets.
+2. Market Performance Comparison: Conducted a thorough analysis comparing [market performance](/https://github.com/Anugya10/Sales-and-Finance-Analytics-of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf/) against sales targets.
 
 Sales Analytics Purpose: Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
