@@ -15,7 +15,7 @@ Reports' Role: Determining effective customer discounts, facilitating negotiatio
 # Finance Report:
 ## Project Goals:
 
-1. Profit and Loss (P&L) Reports: Created [P&L reports by fiscal years](/https://github.com/Anugya10/Sales-and-Finance-Analytics-of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf/) and P&L reports by fiscal months.
+1. Profit and Loss (P&L) Reports: Created [P&L reports by fiscal years](/https://github.com/Anugya10/Sales-and-Finance-Analytics-of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf/) and [P&L reports by fiscal months](/https://github.com/Anugya10/Sales-and-Finance-Analytics-of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf/).
 3. P&L Reports by Markets: Generated P&L reports categorized by [markets](/https://github.com/Anugya10/Sales-and-Finance-Analytics-of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Markets.pdf/).
 
 Finance Analytics Purpose: Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
